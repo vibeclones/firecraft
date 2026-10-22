@@ -1,0 +1,4 @@
+Unpacked from aliasfoxkde/FireCraft, asset firecraft-web-0.2.1.zip, release v0.2.1
+https://github.com/aliasfoxkde/FireCraft/releases/tag/v0.2.1
+One change: root-absolute paths in index.html and host.html were prefixed with /firecraft/v0.2.1 so the app works from a subfolder.
+FireCraft is MIT OR Apache-2.0; the full source for this version is at https://github.com/aliasfoxkde/FireCraft/tree/v0.2.1
